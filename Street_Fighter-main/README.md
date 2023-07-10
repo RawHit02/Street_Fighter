@@ -20,7 +20,7 @@ Stunning Visuals and Sound: Immerse yourself in the vibrant and detailed world o
 Installation
 To play Street Fighter, follow these steps:
 
-Clone the repository: git clone https://github.com/username/street-fighter.git
+Clone the repository: git clone https://github.com/rawhit02/street-fighter.git
 Navigate to the game directory: cd street-fighter
 Launch the game executable: ./street-fighter
 Controls
